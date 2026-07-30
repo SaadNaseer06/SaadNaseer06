@@ -102,6 +102,7 @@ I care about maintainable code, clear architecture, reliable integrations, and s
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaadNaseer06&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Saad Naseer's GitHub statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaadNaseer06&hide_border=true" alt="Saad Naseer's GitHub contribution streak" />
 
 </div>
 
