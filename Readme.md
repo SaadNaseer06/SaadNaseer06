@@ -97,14 +97,13 @@ I care about maintainable code, clear architecture, reliable integrations, and s
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaadNaseer06&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Saad Naseer's GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaadNaseer06&hide_border=true" alt="Saad Naseer's GitHub contribution streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaadNaseer06&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadNaseer06&theme=github-dark&hide_border=true" height="180"/>
+</p>
 
 ---
 
