@@ -1,27 +1,131 @@
-# 💫 About Me
+<div align="center">
 
-👋 Hi, I’m **Saad Naseer**  
-🚀 **PHP & Laravel Developer** | Web Enthusiast | Lifelong Learner  
+# Saad Naseer
 
-I specialize in building **Laravel-based web applications and e-commerce solutions**. I have hands-on experience with backend development, REST APIs, and database-driven systems, along with a solid understanding of frontend technologies. I enjoy working on practical projects that solve real business problems and scale effectively.
+### Full-Stack Developer · Laravel · Next.js · React · TypeScript
 
-- 🔭 Currently working on **Laravel & e-commerce projects**
-- 🌱 Learning **React, modern frontend workflows & SEO**
-- 🤝 Open to collaboration on **PHP, Laravel & WordPress projects**
-- 💬 Ask me about **Laravel, REST APIs, MySQL & e-commerce systems**
+I build practical, production-focused web applications, business platforms, and integrations that solve real operational problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Naseer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-naseer06/)
+[![Email](https://img.shields.io/badge/Email-saadnaseeroffice%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadnaseeroffice@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SaadNaseer06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadNaseer06)
+
+</div>
 
 ---
 
+## About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/saad-naseer06/) 
+I am a full-stack developer at **Resolute Digitals**, working across frontend, backend, CMS, integrations, and deployment.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaadNaseer06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaadNaseer06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadNaseer06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My work focuses on building:
 
+- Agency and client-facing websites
+- Custom business portals and CRM-style systems
+- E-commerce applications and payment workflows
+- REST APIs and database-driven backends
+- WordPress solutions and third-party integrations
+- Responsive frontend experiences with modern JavaScript frameworks
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I care about maintainable code, clear architecture, reliable integrations, and shipping software that supports real business goals.
+
+---
+
+## Core Expertise
+
+| Area | Technologies & Capabilities |
+|---|---|
+| **Frontend** | Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, jQuery |
+| **Backend** | PHP, Laravel, Livewire, REST APIs, JWT authentication |
+| **Database & Services** | MySQL, Supabase |
+| **CMS & Commerce** | WordPress, e-commerce systems, Stripe integrations |
+| **Deployment & Tools** | Git, GitHub, cPanel, Vercel, Netlify, Apache |
+
+---
+
+## Technology Stack
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Frameworks & Platforms
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Databases, Integrations & Deployment
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+
+---
+
+## What I Bring to a Project
+
+- End-to-end ownership from requirement analysis to deployment
+- Backend development with Laravel, APIs, authentication, and relational databases
+- Modern frontend development with Next.js, React, and TypeScript
+- Payment, CMS, and third-party service integrations
+- Experience working on business websites, internal systems, and e-commerce workflows
+- Practical debugging, deployment, and production support
+
+---
+
+## Current Focus
+
+- Building scalable full-stack applications
+- Improving frontend architecture with Next.js and TypeScript
+- Developing reusable Laravel APIs and business modules
+- Exploring AI-assisted workflows and automation
+- Strengthening application performance, security, and deployment practices
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaadNaseer06&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Saad Naseer's GitHub statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaadNaseer06&hide_border=true" alt="Saad Naseer's GitHub contribution streak" />
+
+</div>
+
+---
+
+## Education
+
+**Sir Syed University of Engineering & Technology (SSUET)**  
+2022–2026
+
+---
+
+## Let's Connect
+
+I am open to full-stack development opportunities, technical collaborations, and projects involving Laravel, Next.js, React, WordPress, APIs, CRM systems, or e-commerce platforms.
+
+- **LinkedIn:** [linkedin.com/in/saad-naseer06](https://www.linkedin.com/in/saad-naseer06/)
+- **Email:** [saadnaseeroffice@gmail.com](mailto:saadnaseeroffice@gmail.com)
+
+---
+
+<div align="center">
+
+**Build useful software. Solve real problems. Keep improving.**
+
+</div>
