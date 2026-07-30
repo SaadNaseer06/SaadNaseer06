@@ -110,7 +110,7 @@ I care about maintainable code, clear architecture, reliable integrations, and s
 ## Education
 
 **Sir Syed University of Engineering & Technology (SSUET)**  
-2022–2026
+2022–2026 (Bachelors In Software Engineering)
 
 ---
 
